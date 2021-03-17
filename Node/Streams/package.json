@@ -1,0 +1,16 @@
+{
+  "name": "Streams",
+  "version": "1.0.0",
+  "description": "",
+  "main": "stream-with-read-line.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "autodetect-decoder-stream": "^1.0.3",
+    "readline-stream": "^1.0.2"
+  }
+}
